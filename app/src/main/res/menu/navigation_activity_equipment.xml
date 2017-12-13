@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/before_pic"
+        android:icon="@drawable/ic_add_a_photo_black_24dp"
+        android:title="Before" />
+
+    <item
+        android:id="@+id/during_pic"
+        android:icon="@drawable/ic_add_a_photo_black_24dp"
+        android:title="During" />
+
+    <item
+        android:id="@+id/after_pic"
+        android:icon="@drawable/ic_add_a_photo_black_24dp"
+        android:title="After" />
+
+</menu>
